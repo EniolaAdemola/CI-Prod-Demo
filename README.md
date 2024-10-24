@@ -11,6 +11,8 @@ This project includes a basic function for subtracting two numbers and unit test
 - **`.github/workflows/ci.yml`**: GitHub Actions CI configuration to automate the testing process.
 - **`assets/githubActions.png`**: Image showing the GitHub Actions CI pipeline running successfully.
 - **`assets/test_success.png`**: Image showing the successful test results.
+- **`assets/checkInProgress.png`**: Image showing the CI pipeline in progress.
+- **`assets/pullRequestChecks.png`**: Image showing the checks for a pull request.
 
 ## Features
 
@@ -63,6 +65,18 @@ The CI pipeline is defined in `.github/workflows/ci.yml`.
 Here’s an image showing the CI pipeline running via GitHub Actions:
 
 ![GitHub Actions CI](./assets/githubActions.png)
+
+### CI Pipeline in Progress
+
+Here’s an image showing the CI pipeline in progress:
+
+![CI Check In Progress](./assets/checkInProgress.png)
+
+### Pull Request Checks
+
+Here’s an image showing the checks running for a pull request:
+
+![Pull Request Checks](./assets/pullRequestChecks.png)
 
 ### Successful Test Execution
 
